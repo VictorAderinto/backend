@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaderinto\\Downloads\\Personal\\ImmigrationAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2F204A-7596-4485-AB1F-C953B2914D5A}|ImmigrationAI\\ImmigrationAI.csproj|c:\\users\\vaderinto\\downloads\\personal\\immigrationai\\immigrationai\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2F204A-7596-4485-AB1F-C953B2914D5A}|ImmigrationAI\\ImmigrationAI.csproj|solutionrelative:immigrationai\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\vaderinto\\Downloads\\Personal\\ImmigrationAI\\ImmigrationAI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ImmigrationAI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\vaderinto\\Downloads\\Personal\\ImmigrationAI\\ImmigrationAI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ImmigrationAI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T22:41:09.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
